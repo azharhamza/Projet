@@ -1,0 +1,11 @@
+table.table{
+    width: 100%;
+    text-align: center;
+}
+tr{
+    background-color: green;
+    color: azure;
+}
+td{
+    text-align: center;
+}
